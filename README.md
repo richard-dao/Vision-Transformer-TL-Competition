@@ -1,4 +1,4 @@
-# Vision Transformer Transfer Learning Project Repository
+# Vision Transformer Submission Project Repository
 
 Full step-by-step instructions for reproducability can be found on the .ipynb file and in the final report. GitHub is unable to hold the final parameter weights saved in a .pth file as the final file is too large. 
 
